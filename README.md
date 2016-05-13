@@ -1,4 +1,7 @@
-# Angular 2 Beta Boilerplate
+# Puzzle Application- Angular 2 Beta Boilerplate
+
+## Description about the app
+This app show you a brief approach about the new architecture of AngularJS 2. The only purpose of this app is learning the new concepts of AngularJS 2 
 
 ## Description
 This repository acts as a very simple Angular 2 Beta Boilerplate with which you can get started developing Angular 2 immediately.
